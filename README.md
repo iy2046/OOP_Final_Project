@@ -26,7 +26,7 @@ This project emphasizes Object Oriented Programming principles, data persistence
 ---
 
 ## **Administrator Login**
-- **Password**: `finalproject`  
+- **Password**: "finalproject"
 Use this to access admin-specific features: adding, deleting, and managing vehicle maintenance.
 
 ---
@@ -34,11 +34,11 @@ Use this to access admin-specific features: adding, deleting, and managing vehic
 ## **Technical Details**
 
 ### **Core Classes**
-- **`Vehicle`**: Represents individual vehicles with attributes of ID, make, model, and maintenance status. Methods include updating maintenance and checking availability.
-- **`CarRentalManagementSystem`**: Manages application flow, user menus, input handling, and data storage.
+- **Vehicle**: Represents individual vehicles with attributes of ID, make, model, and maintenance status. Methods include updating maintenance and checking availability.
+- **CarRentalManagementSystem**: Manages application flow, user menus, input handling, and data storage.
 
 ### **Data Persistence**
-- Inventory data is saved in `vehicle_data.bin` using Java's `ObjectOutputStream` and reloaded using `ObjectInputStream`.
+- Inventory data is saved in vehicle_data.bin using Java's ObjectOutputStream and reloaded using ObjectInputStream.
 
 ### **Exception Handling**
 - Handles invalid inputs, including:
