@@ -25,7 +25,7 @@ This project emphasizes Object Oriented Programming principles, data persistence
 
 ## **Administrator Login**
 - **Password**: "finalproject"
-Use this to access admin-specific features: adding, deleting, and managing vehicle maintenance.
+- Use this to access admin-specific features: adding, deleting, and managing vehicle maintenance.
 
 ---
 
