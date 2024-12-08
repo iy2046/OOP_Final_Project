@@ -7,8 +7,6 @@ This project emphasizes Object Oriented Programming principles, data persistence
 
 ---
 
-## **Features**
-
 ### **Administrator Features**
 - **Add a Vehicle**: Add new vehicles to the system with: ID, make, model, seating capacity, and rental price.
 - **View Inventory**: Display all vehicles with their availability and maintenance status.
