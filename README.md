@@ -1,7 +1,7 @@
 # **Car Rental Management System**
 
 ## **Overview**
-The Car Rental Management System is a Java-based application designed for efficient management of rental vehicles. It supports both **administrators** and **customers** with the following features: vehicle inventory management, maintenance tracking, and rental booking.
+The Car Rental Management System is a Java-based application designed for rental-vehicles management. It supports both **administrators** and **customers** with the following features: vehicle inventory management, maintenance tracking, and rental booking.
 
 This project emphasizes Object Oriented Programming principles, data persistence, and user-friendly design.
 
