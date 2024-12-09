@@ -36,7 +36,7 @@ This project emphasizes Object Oriented Programming principles, data persistence
 - **CarRentalManagementSystem**: Manages application flow, user menus, input handling, and data storage.
 
 ### **Data Persistence**
-- Inventory data is saved in vehicle_data.bin using Java's ObjectOutputStream and reloaded using ObjectInputStream.
+- Inventory data is saved in "vehicle_data.bin" using Java's "ObjectOutputStream" and reloaded using "ObjectInputStream".
 
 ### **Exception Handling**
 - Handles invalid inputs, including:
