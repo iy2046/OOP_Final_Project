@@ -47,7 +47,7 @@ This project emphasizes Object Oriented Programming principles, data persistence
 ---
 
 ### **DISCLAIMER!**
-- If you encounter a bug in the first run of the program, please rerun the program a second time and the bug should be fixed. 
+- If you encounter a bug regarding the availability of your first vehicle, delete the bin file and please rerun the program and the bug should be fixed. 
 
 ## **Team Members**
 - **Nick Yi**
